@@ -1,4 +1,4 @@
-Entity,Code,Year,US consumer price index for clothing,US consumer price index for computer software & accessories,US consumer price index for food & beverages,US consumer price index for housing,US consumer price index for televisions,US consumer price index for new cars,"US consumer price index for tuition, school fees, childcare",US consumer price index for toys,US consumer price index for public transport,US consumer price index for household energy,US consumer price index for college tuition & fees,US consumer price index for medical care
+Entity,Code,Year,Clothing,Computer software & accessories,Food & beverages,Housing,Televisions,New cars,Tuition, school fees, childcare,Toys,Public transport,Household energy,College tuition & fees,Medical care
 United States,USA,1914,15,,,,,,,,,,,
 United States,USA,1915,15.6,,,,,,,,,,,
 United States,USA,1916,17.9,,,,,,,,,,,
